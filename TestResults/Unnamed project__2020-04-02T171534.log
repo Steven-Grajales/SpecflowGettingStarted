@@ -1,0 +1,17 @@
+﻿2020-04-02T17:15:33.6972621-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-02T17:15:33.6972621-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.13 in Framework netcore31 in x64 mode execution started
+2020-04-02T17:15:33.6972621-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-02T17:15:34.4213035-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.1\PruebasSQ.dll
+2020-04-02T17:15:34.4223035-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Steven\source\repos\PruebasSQ.Specs\TestResults" (default)
+2020-04-02T17:15:34.4233036-05:00;VSTestExecutionThread;Info;Profile: 
+2020-04-02T17:15:35.0723407-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\Steven\source\repos\PruebasSQ.Specs\TestResults\Unnamed project__2020-04-02T171534.log
+2020-04-02T17:15:35.0863415-05:00;Thread#13;Info;Checking activation
+2020-04-02T17:15:35.2443506-05:00;Thread#13;Error;No tests executed (activation needed)
+2020-04-02T17:15:35.3273553-05:00:Total: 0
+2020-04-02T17:15:35.3333557-05:00:Succeeded: 0
+2020-04-02T17:15:35.3343557-05:00:Ignored: 0
+2020-04-02T17:15:35.3353558-05:00:Pending: 0
+2020-04-02T17:15:35.3373559-05:00:Skipped: 0
+2020-04-02T17:15:35.3383559-05:00:Failed: 0
+2020-04-02T17:15:35.3573570-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========
