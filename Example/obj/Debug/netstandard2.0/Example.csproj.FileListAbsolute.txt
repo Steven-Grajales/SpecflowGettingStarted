@@ -1,0 +1,9 @@
+C:\Users\Steven\source\repos\PruebasSQ.Specs\Example\bin\Debug\netstandard2.0\Example.deps.json
+C:\Users\Steven\source\repos\PruebasSQ.Specs\Example\bin\Debug\netstandard2.0\Example.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\Example\bin\Debug\netstandard2.0\Example.pdb
+C:\Users\Steven\source\repos\PruebasSQ.Specs\Example\obj\Debug\netstandard2.0\Example.csprojAssemblyReference.cache
+C:\Users\Steven\source\repos\PruebasSQ.Specs\Example\obj\Debug\netstandard2.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\PruebasSQ.Specs\Example\obj\Debug\netstandard2.0\Example.AssemblyInfoInputs.cache
+C:\Users\Steven\source\repos\PruebasSQ.Specs\Example\obj\Debug\netstandard2.0\Example.AssemblyInfo.cs
+C:\Users\Steven\source\repos\PruebasSQ.Specs\Example\obj\Debug\netstandard2.0\Example.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\Example\obj\Debug\netstandard2.0\Example.pdb

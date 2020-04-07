@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QVmbjsVnkUFJGiwlW18LQNPSZ96cDxHnArI4Bvd6Bv3VnYPuCuxx216bz317teK9lc8VozAYvYu+NkHzG2ek5w==",
+  "dgSpecHash": "kA633OumyxR4Cm099AM1BojsiDxRL669FZzRiYWwl+LV3VeHGjMnbnyriH3hfGxACLK88xp2wLIosarGqsgxtA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Steven\\source\\repos\\PruebasSQ.Specs\\PruebasSQ\\PruebasSQ.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,8 @@
     "C:\\Users\\Steven\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Steven\\.nuget\\packages\\mstest.testadapter\\2.1.0\\mstest.testadapter.2.1.0.nupkg.sha512",
+    "C:\\Users\\Steven\\.nuget\\packages\\mstest.testframework\\2.1.0\\mstest.testframework.2.1.0.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
@@ -48,7 +50,9 @@
     "C:\\Users\\Steven\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "C:\\Users\\Steven\\.nuget\\packages\\system.diagnostics.textwritertracelistener\\4.3.0\\system.diagnostics.textwritertracelistener.4.3.0.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\Steven\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",

@@ -353,3 +353,10 @@ C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\P
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\PruebasSQ.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\PruebasSQ.pdb
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\PruebasSQ.genruntimeconfig.cache
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Example.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Example.pdb
