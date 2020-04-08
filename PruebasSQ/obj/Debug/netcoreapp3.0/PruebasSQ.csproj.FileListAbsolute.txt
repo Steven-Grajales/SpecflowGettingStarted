@@ -2,6 +2,9 @@ C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\B
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\SpecRun.Runtime.SpecFlowPlugin.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\TechTalk.SpecRun.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\TechTalk.SpecRun.Common.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\SpecRunTestProfile.xsd
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\SpecRunTestProfile_2011_09.xsd
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\SpecFlowPlusRunner\net45\BoDi.dll
@@ -272,6 +275,8 @@ C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\M
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\testhost.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\TechTalk.SpecFlow.dll
@@ -345,6 +350,8 @@ C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\z
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Example.dll
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Example.pdb
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\PruebasSQ.csprojAssemblyReference.cache
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\PruebasSQ.csproj.CoreCompileInputs.cache
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\PruebasSQ.AssemblyInfoInputs.cache
@@ -353,10 +360,4 @@ C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\P
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\PruebasSQ.dll
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\PruebasSQ.pdb
 C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\obj\Debug\netcoreapp3.0\PruebasSQ.genruntimeconfig.cache
-C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Example.dll
-C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Example.pdb
+C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\default.srprofile

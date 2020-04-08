@@ -12,9 +12,26 @@ namespace Example
 
         public int SecondNumber { get; set; }
 
+        public int result { get; set; }
+
         public int Add()
         {
             return FirstNumber + SecondNumber;
+        }
+
+        public int Subtract()
+        {
+            return FirstNumber - SecondNumber;
+        }
+
+        public int Multiply()
+        {
+            return FirstNumber * SecondNumber;
+        }
+
+        public int Divide()
+        {
+            return FirstNumber / SecondNumber;
         }
     }
 }

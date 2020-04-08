@@ -1,0 +1,388 @@
+﻿2020-04-08T15:36:39.8833505-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-08T15:36:39.8833505-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.13 in Framework netcore31 in x64 mode execution started
+2020-04-08T15:36:39.8833505-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-08T15:36:40.1513658-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\PruebasSQ.dll
+2020-04-08T15:36:40.1523659-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Steven\source\repos\PruebasSQ.Specs\TestResults" (default)
+2020-04-08T15:36:40.1523659-05:00;VSTestExecutionThread;Info;Profile: PruebasSQ
+2020-04-08T15:36:40.2243700-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\Steven\source\repos\PruebasSQ.Specs\TestResults\ReporteSpecFlow.log
+2020-04-08T15:36:40.2333705-05:00;Thread#12;Info;Checking activation
+2020-04-08T15:36:40.3853792-05:00;Thread#12;Info;Activation check completed
+2020-04-08T15:36:40.3863793-05:00;Thread#12;Info;Starting test run
+2020-04-08T15:36:40.4003801-05:00;Thread#12;Info;Discovering target: Default
+2020-04-08T15:36:40.4003801-05:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\PruebasSQ.dll
+2020-04-08T15:36:40.5633894-05:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\PruebasSQ.dll
+2020-04-08T15:36:40.5663896-05:00:Test Suite Dump
+2020-04-08T15:36:40.5693897-05:00:#0: PruebasSQ/PruebasSQ - 
+2020-04-08T15:36:40.5693897-05:00:#1: Default - 
+2020-04-08T15:36:40.5693897-05:00:#2: PruebasSQ - 
+2020-04-08T15:36:40.5693897-05:00:#3: Calculator - 
+2020-04-08T15:36:40.5713898-05:00:#4: Add two numbers, 17+25 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:Add+two+numbers%2c+17%2b25
+2020-04-08T15:36:40.5713898-05:00:#5: Add two numbers, 10+78 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:Add+two+numbers%2c+10%2b78
+2020-04-08T15:36:40.5713898-05:00:#6: Add two numbers, 2+25 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:Add+two+numbers%2c+2%2b25
+2020-04-08T15:36:40.5713898-05:00:#7: Add two numbers, 5+12 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:Add+two+numbers%2c+5%2b12
+2020-04-08T15:36:40.5713898-05:00:#8: sub two numbers, 17-59 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:sub+two+numbers%2c+17-59
+2020-04-08T15:36:40.5713898-05:00:#9: sub two numbers, 10-3 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:sub+two+numbers%2c+10-3
+2020-04-08T15:36:40.5713898-05:00:#10: mul two numbers, 3*2 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:mul+two+numbers%2c+3*2
+2020-04-08T15:36:40.5713898-05:00:#11: mul two numbers, 4*3 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:mul+two+numbers%2c+4*3
+2020-04-08T15:36:40.5713898-05:00:#12: div two numbers, 4/2 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:div+two+numbers%2c+4%2f2
+2020-04-08T15:36:40.5713898-05:00:#13: div two numbers, 10/2 - TestAssembly:PruebasSQ/Feature:Calculator/Scenario:div+two+numbers%2c+10%2f2
+2020-04-08T15:36:40.5713898-05:00:End: Test Suite Dump
+2020-04-08T15:36:40.6103921-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:40.6163924-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-04-08T15:36:40.6163924-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-04-08T15:36:40.6253929-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:40.6253929-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:40.6253929-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:40.6253929-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-04-08T15:36:40.6283931-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-04-08T15:36:40.6323933-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:40.6373936-05:00:Thread #0: creating new test thread executor for PruebasSQ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-08T15:36:40.6443940-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-04-08T15:36:40.6453941-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-04-08T15:36:40.6503944-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-04-08T15:36:40.6543946-05:00:starting Out Of Process Executor
+2020-04-08T15:36:40.6563947-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-08T15:36:40.6633951-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-04-08T15:36:40.6633951-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-04-08T15:36:40.6663953-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:40.6673953-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll'
+2020-04-08T15:36:40.6673953-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Validation.exe'
+2020-04-08T15:36:40.6673953-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:40.6843963-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2020-04-08T15:36:40.6843963-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Validation.dll'
+2020-04-08T15:36:40.6843963-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Validation.exe'
+2020-04-08T15:36:40.6843963-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2020-04-08T15:36:40.6843963-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2020-04-08T15:36:40.6853964-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Validation.dll'
+2020-04-08T15:36:40.6853964-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Validation.exe'
+2020-04-08T15:36:40.6853964-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2020-04-08T15:36:40.6853964-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2020-04-08T15:36:40.6853964-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Validation.dll'
+2020-04-08T15:36:40.6853964-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Validation.exe'
+2020-04-08T15:36:40.6853964-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2020-04-08T15:36:40.6903967-05:00:Starting callback TCP Rpc server
+2020-04-08T15:36:40.7303989-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-04-08T15:36:40.7303989-05:00:Started callback TCP Rpc server on port 32768
+2020-04-08T15:36:40.7303989-05:00:Starting logger TCP Rpc server
+2020-04-08T15:36:40.7333991-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-04-08T15:36:40.7333991-05:00:Started logger TCP Rpc server on port 32769
+2020-04-08T15:36:40.8854078-05:00:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' 'exec "C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 4880 --uniqueId "2020-04-08T153640" --outputFolder "C:\Users\Steven\source\repos\PruebasSQ.Specs\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:40.8954084-05:00:Executor with PID 11780 has been started successfully.
+2020-04-08T15:36:40.9034088-05:00:Out of Process Executor 11780 started
+2020-04-08T15:36:40.9034088-05:00:Waiting for endpoint
+2020-04-08T15:36:41.7564576-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-08T15:36:41.7564576-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-04-08T15:36:41.7564576-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-04-08T15:36:41.7564576-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:41.7564576-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\StreamJsonRpc.resources.dll'
+2020-04-08T15:36:41.7564576-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\StreamJsonRpc.resources.exe'
+2020-04-08T15:36:41.7564576-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:41.7584577-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2020-04-08T15:36:41.7584577-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\StreamJsonRpc.resources.dll'
+2020-04-08T15:36:41.7584577-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\StreamJsonRpc.resources.exe'
+2020-04-08T15:36:41.7584577-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2020-04-08T15:36:41.7584577-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2020-04-08T15:36:41.7584577-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\StreamJsonRpc.resources.dll'
+2020-04-08T15:36:41.7584577-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\StreamJsonRpc.resources.exe'
+2020-04-08T15:36:41.7594578-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2020-04-08T15:36:41.7594578-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2020-04-08T15:36:41.7594578-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\StreamJsonRpc.resources.dll'
+2020-04-08T15:36:41.7594578-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\StreamJsonRpc.resources.exe'
+2020-04-08T15:36:41.7594578-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2020-04-08T15:36:41.7614579-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-08T15:36:41.7644581-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-08T15:36:41.7644581-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-04-08T15:36:41.7644581-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-04-08T15:36:41.7644581-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:41.7644581-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Threading.dll'
+2020-04-08T15:36:41.7644581-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Threading.exe'
+2020-04-08T15:36:41.7644581-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:41.7664582-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2020-04-08T15:36:41.7664582-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Threading.dll'
+2020-04-08T15:36:41.7664582-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Threading.exe'
+2020-04-08T15:36:41.7664582-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2020-04-08T15:36:41.7664582-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2020-04-08T15:36:41.7664582-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Threading.dll'
+2020-04-08T15:36:41.7664582-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Threading.exe'
+2020-04-08T15:36:41.7664582-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2020-04-08T15:36:41.7674583-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2020-04-08T15:36:41.7674583-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Threading.dll'
+2020-04-08T15:36:41.7674583-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Threading.exe'
+2020-04-08T15:36:41.7674583-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2020-04-08T15:36:42.3644924-05:00:Remote executor port received: 32770
+2020-04-08T15:36:42.3654925-05:00:Creating executor TCP client on port 32770
+2020-04-08T15:36:42.3664925-05:00:Created executor TCP client on port 32770
+2020-04-08T15:36:42.3664925-05:00:Connecting to remote executor TCP server
+2020-04-08T15:36:42.3684926-05:00:Connected remote executor TCP server
+2020-04-08T15:36:42.3684926-05:00:trying to connect to Out of Process Executor the 1 attempt
+2020-04-08T15:36:42.3684926-05:00:Connection to Out of Process Executor established in the 1 attempt
+2020-04-08T15:36:42.7045119-05:00:2020-04-08T15:36:42.7015117-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\PruebasSQ.dll on test thread #0
+2020-04-08T15:36:42.7175126-05:00:Endpoint 11780 started
+2020-04-08T15:36:42.7625152-05:00:2020-04-08T15:36:42.7615151-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-04-08T15:36:43.0445313-05:00:2020-04-08T15:36:43.0415311-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-04-08T15:36:43.0545319-05:00:2020-04-08T15:36:43.0525318-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-04-08T15:36:43.0635324-05:00:2020-04-08T15:36:43.0615323-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Steven\.nuget\packages\specflow\3.1.89\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-04-08T15:36:43.2925455-05:00:2020-04-08T15:36:43.2905454-05:00:Thread#0:T:-> Loading plugin C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-04-08T15:36:43.2975458-05:00:2020-04-08T15:36:43.2955457-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-04-08T15:36:43.3085464-05:00:2020-04-08T15:36:43.3065463-05:00:Thread#0:T:-> Using default config
+2020-04-08T15:36:43.3385481-05:00:2020-04-08T15:36:43.3365480-05:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-04-08T15:36:43.3415483-05:00:2020-04-08T15:36:43.3405482-05:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-04-08T15:36:43.3425483-05:00:2020-04-08T15:36:43.3415483-05:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Steven\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-04-08T15:36:43.3445485-05:00:2020-04-08T15:36:43.3435484-05:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-04-08T15:36:43.3445485-05:00:2020-04-08T15:36:43.3445485-05:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-04-08T15:36:43.3455485-05:00:2020-04-08T15:36:43.3455485-05:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Steven\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-04-08T15:36:43.3625495-05:00:2020-04-08T15:36:43.3615494-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-08T15:36:43.3635496-05:00:2020-04-08T15:36:43.3625495-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-04-08T15:36:43.3655497-05:00:2020-04-08T15:36:43.3655497-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Steven\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-04-08T15:36:43.4275532-05:00:2020-04-08T15:36:43.4265532-05:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-04-08T15:36:43.4275532-05:00:2020-04-08T15:36:43.4275532-05:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-04-08T15:36:43.4295533-05:00:2020-04-08T15:36:43.4285533-05:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Steven\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-04-08T15:36:43.8605780-05:00:Thread#0: Test #4/0 is started on thread #0
+2020-04-08T15:36:43.9145811-05:00:2020-04-08T15:36:43.9145811-05:00:Thread#0:B:Given I have entered 17 into the calculator
+2020-04-08T15:36:43.9505831-05:00:2020-04-08T15:36:43.9505831-05:00:Assembly resolving Example, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-04-08T15:36:43.9855851-05:00:2020-04-08T15:36:43.9845851-05:00:[AssemblyCache] Trying to resolve 'Example' from .deps.json file
+2020-04-08T15:36:43.9875852-05:00:2020-04-08T15:36:43.9865852-05:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Example', found in dependency map, but unable to resolve a path in ['Example.dll']
+2020-04-08T15:36:43.9875852-05:00:2020-04-08T15:36:43.9875852-05:00:[AssemblyCache] Could not resolve 'Example' from .deps.json
+2020-04-08T15:36:43.9915855-05:00:2020-04-08T15:36:43.9905854-05:00:[AssemblyCache] Trying to resolve 'Example' in folder 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:43.9995859-05:00:2020-04-08T15:36:43.9995859-05:00:[AssemblyCache] Trying to resolve 'Example' to 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Example.dll'
+2020-04-08T15:36:44.0005860-05:00:2020-04-08T15:36:44.0005860-05:00:[AssemblyCache] Found file 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Example.dll' for assembly 'Example'
+2020-04-08T15:36:44.0025861-05:00:2020-04-08T15:36:44.0015860-05:00:[AssemblyCache] Resolved 'Example' to C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\Example.dll
+2020-04-08T15:36:44.0155868-05:00:2020-04-08T15:36:44.0145868-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(17) (0,1s)
+2020-04-08T15:36:44.0185870-05:00:2020-04-08T15:36:44.0175870-05:00:Thread#0:B:And I have also entered 25 into the calculator
+2020-04-08T15:36:44.0205871-05:00:2020-04-08T15:36:44.0205871-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(25) (0,0s)
+2020-04-08T15:36:44.0225872-05:00:2020-04-08T15:36:44.0215872-05:00:Thread#0:B:When I press add
+2020-04-08T15:36:44.0255874-05:00:2020-04-08T15:36:44.0245874-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressAdd() (0,0s)
+2020-04-08T15:36:44.0265875-05:00:2020-04-08T15:36:44.0265875-05:00:Thread#0:B:Then the result should be 42 on the screen
+2020-04-08T15:36:44.0295876-05:00:2020-04-08T15:36:44.0285876-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-08T15:36:44.0315878-05:00:2020-04-08T15:36:44.0295876-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' from .deps.json file
+2020-04-08T15:36:44.0325878-05:00:2020-04-08T15:36:44.0325878-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.TestFramework' to 'C:\Users\Steven\.nuget\packages\mstest.testframework\2.1.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll'
+2020-04-08T15:36:44.0365880-05:00:2020-04-08T15:36:44.0355880-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(42) (0,0s)
+2020-04-08T15:36:44.0585893-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.0585893-05:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-04-08T15:36:44.0585893-05:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-04-08T15:36:44.0585893-05:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:44.0585893-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:44.0585893-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:44.0585893-05:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-04-08T15:36:44.0585893-05:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-04-08T15:36:44.0585893-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:44.1665955-05:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,3040174 seconds
+2020-04-08T15:36:44.1725958-05:00:Thread#0: Test #5/0 is started on thread #0
+2020-04-08T15:36:44.1745959-05:00:2020-04-08T15:36:44.1745959-05:00:Thread#0:B:Given I have entered 10 into the calculator
+2020-04-08T15:36:44.1765961-05:00:2020-04-08T15:36:44.1755960-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(10) (0,0s)
+2020-04-08T15:36:44.1775961-05:00:2020-04-08T15:36:44.1775961-05:00:Thread#0:B:And I have also entered 78 into the calculator
+2020-04-08T15:36:44.1795962-05:00:2020-04-08T15:36:44.1785962-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(78) (0,0s)
+2020-04-08T15:36:44.1825964-05:00:2020-04-08T15:36:44.1815963-05:00:Thread#0:B:When I press add
+2020-04-08T15:36:44.1835965-05:00:2020-04-08T15:36:44.1835965-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressAdd() (0,0s)
+2020-04-08T15:36:44.1845965-05:00:2020-04-08T15:36:44.1845965-05:00:Thread#0:B:Then the result should be 88 on the screen
+2020-04-08T15:36:44.1865966-05:00:2020-04-08T15:36:44.1855966-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(88) (0,0s)
+2020-04-08T15:36:44.1885967-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.1885967-05:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2020-04-08T15:36:44.1885967-05:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-04-08T15:36:44.1885967-05:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:44.1885967-05:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:44.1885967-05:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:44.1885967-05:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-04-08T15:36:44.1885967-05:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-04-08T15:36:44.1885967-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:44.1925970-05:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0200012 seconds
+2020-04-08T15:36:44.1935970-05:00:Thread#0: Test #6/0 is started on thread #0
+2020-04-08T15:36:44.1965972-05:00:2020-04-08T15:36:44.1955971-05:00:Thread#0:B:Given I have entered 2 into the calculator
+2020-04-08T15:36:44.1985973-05:00:2020-04-08T15:36:44.1985973-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(2) (0,0s)
+2020-04-08T15:36:44.1995974-05:00:2020-04-08T15:36:44.1995974-05:00:Thread#0:B:And I have also entered 25 into the calculator
+2020-04-08T15:36:44.2005974-05:00:2020-04-08T15:36:44.2005974-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(25) (0,0s)
+2020-04-08T15:36:44.2015975-05:00:2020-04-08T15:36:44.2015975-05:00:Thread#0:B:When I press add
+2020-04-08T15:36:44.2025975-05:00:2020-04-08T15:36:44.2025975-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressAdd() (0,0s)
+2020-04-08T15:36:44.2035976-05:00:2020-04-08T15:36:44.2025975-05:00:Thread#0:B:Then the result should be 27 on the screen
+2020-04-08T15:36:44.2045977-05:00:2020-04-08T15:36:44.2035976-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(27) (0,0s)
+2020-04-08T15:36:44.2065978-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.2065978-05:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2020-04-08T15:36:44.2065978-05:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2020-04-08T15:36:44.2065978-05:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:44.2065978-05:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:44.2065978-05:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:44.2065978-05:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2020-04-08T15:36:44.2065978-05:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2020-04-08T15:36:44.2065978-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:44.2105980-05:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0,017001 seconds
+2020-04-08T15:36:44.2115981-05:00:Thread#0: Test #7/0 is started on thread #0
+2020-04-08T15:36:44.2165983-05:00:2020-04-08T15:36:44.2155983-05:00:Thread#0:B:Given I have entered 5 into the calculator
+2020-04-08T15:36:44.2175984-05:00:2020-04-08T15:36:44.2165983-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(5) (0,0s)
+2020-04-08T15:36:44.2185985-05:00:2020-04-08T15:36:44.2175984-05:00:Thread#0:B:And I have also entered -17 into the calculator
+2020-04-08T15:36:44.2195985-05:00:2020-04-08T15:36:44.2185985-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(-17) (0,0s)
+2020-04-08T15:36:44.2205986-05:00:2020-04-08T15:36:44.2195985-05:00:Thread#0:B:When I press add
+2020-04-08T15:36:44.2215986-05:00:2020-04-08T15:36:44.2205986-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressAdd() (0,0s)
+2020-04-08T15:36:44.2215986-05:00:2020-04-08T15:36:44.2215986-05:00:Thread#0:B:Then the result should be -12 on the screen
+2020-04-08T15:36:44.2225987-05:00:2020-04-08T15:36:44.2225987-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(-12) (0,0s)
+2020-04-08T15:36:44.2245988-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.2245988-05:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2020-04-08T15:36:44.2245988-05:00:Thread#0:Scheduler: considering testitem #8 for thread 0
+2020-04-08T15:36:44.2245988-05:00:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:44.2255989-05:00:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:44.2255989-05:00:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:44.2255989-05:00:Thread#0:Scheduler: using testitem #8 for thread 0
+2020-04-08T15:36:44.2255989-05:00:Thread#0:Scheduler: Test #8 is scheduled for thread
+2020-04-08T15:36:44.2255989-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:44.2285990-05:00:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0,0170009 seconds
+2020-04-08T15:36:44.2295991-05:00:Thread#0: Test #8/0 is started on thread #0
+2020-04-08T15:36:44.2355994-05:00:2020-04-08T15:36:44.2345994-05:00:Thread#0:B:Given I have entered 17 into the calculator
+2020-04-08T15:36:44.2365995-05:00:2020-04-08T15:36:44.2355994-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(17) (0,0s)
+2020-04-08T15:36:44.2375995-05:00:2020-04-08T15:36:44.2365995-05:00:Thread#0:B:And I have also entered 59 into the calculator
+2020-04-08T15:36:44.2385996-05:00:2020-04-08T15:36:44.2375995-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(59) (0,0s)
+2020-04-08T15:36:44.2395997-05:00:2020-04-08T15:36:44.2385996-05:00:Thread#0:B:When I press subtract
+2020-04-08T15:36:44.2415998-05:00:2020-04-08T15:36:44.2415998-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressSub() (0,0s)
+2020-04-08T15:36:44.2435999-05:00:2020-04-08T15:36:44.2425998-05:00:Thread#0:B:Then the result should be -42 on the screen
+2020-04-08T15:36:44.2445999-05:00:2020-04-08T15:36:44.2435999-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(-42) (0,0s)
+2020-04-08T15:36:44.2466001-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.2466001-05:00:Thread#:Scheduler: testitem #9 from normal test queue 
+2020-04-08T15:36:44.2466001-05:00:Thread#0:Scheduler: considering testitem #9 for thread 0
+2020-04-08T15:36:44.2466001-05:00:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:44.2466001-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:44.2466001-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:44.2466001-05:00:Thread#0:Scheduler: using testitem #9 for thread 0
+2020-04-08T15:36:44.2466001-05:00:Thread#0:Scheduler: Test #9 is scheduled for thread
+2020-04-08T15:36:44.2466001-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:44.2506003-05:00:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 0,0210012 seconds
+2020-04-08T15:36:44.2516003-05:00:Thread#0: Test #9/0 is started on thread #0
+2020-04-08T15:36:44.2536005-05:00:2020-04-08T15:36:44.2536005-05:00:Thread#0:B:Given I have entered 10 into the calculator
+2020-04-08T15:36:44.2546005-05:00:2020-04-08T15:36:44.2546005-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(10) (0,0s)
+2020-04-08T15:36:44.2556006-05:00:2020-04-08T15:36:44.2556006-05:00:Thread#0:B:And I have also entered 3 into the calculator
+2020-04-08T15:36:44.2566006-05:00:2020-04-08T15:36:44.2566006-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(3) (0,0s)
+2020-04-08T15:36:44.2616009-05:00:2020-04-08T15:36:44.2616009-05:00:Thread#0:B:When I press subtract
+2020-04-08T15:36:44.2636010-05:00:2020-04-08T15:36:44.2626010-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressSub() (0,0s)
+2020-04-08T15:36:44.2656011-05:00:2020-04-08T15:36:44.2646011-05:00:Thread#0:B:Then the result should be 7 on the screen
+2020-04-08T15:36:44.2666012-05:00:2020-04-08T15:36:44.2656011-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(7) (0,0s)
+2020-04-08T15:36:44.2686013-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.2686013-05:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2020-04-08T15:36:44.2686013-05:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2020-04-08T15:36:44.2686013-05:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:44.2686013-05:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:44.2686013-05:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:44.2686013-05:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2020-04-08T15:36:44.2686013-05:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2020-04-08T15:36:44.2686013-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:44.2716015-05:00:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 0,0200012 seconds
+2020-04-08T15:36:44.2726015-05:00:Thread#0: Test #10/0 is started on thread #0
+2020-04-08T15:36:44.2766018-05:00:2020-04-08T15:36:44.2756017-05:00:Thread#0:B:Given I have entered 3 into the calculator
+2020-04-08T15:36:44.2776018-05:00:2020-04-08T15:36:44.2776018-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(3) (0,0s)
+2020-04-08T15:36:44.2786019-05:00:2020-04-08T15:36:44.2786019-05:00:Thread#0:B:And I have also entered 2 into the calculator
+2020-04-08T15:36:44.2796019-05:00:2020-04-08T15:36:44.2786019-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(2) (0,0s)
+2020-04-08T15:36:44.2806020-05:00:2020-04-08T15:36:44.2796019-05:00:Thread#0:B:When I press multiply
+2020-04-08T15:36:44.2836022-05:00:2020-04-08T15:36:44.2826021-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressMultiply() (0,0s)
+2020-04-08T15:36:44.2836022-05:00:2020-04-08T15:36:44.2836022-05:00:Thread#0:B:Then the result should be 6 on the screen
+2020-04-08T15:36:44.2846022-05:00:2020-04-08T15:36:44.2846022-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(6) (0,0s)
+2020-04-08T15:36:44.2866023-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.2866023-05:00:Thread#:Scheduler: testitem #11 from normal test queue 
+2020-04-08T15:36:44.2866023-05:00:Thread#0:Scheduler: considering testitem #11 for thread 0
+2020-04-08T15:36:44.2866023-05:00:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:44.2866023-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:44.2866023-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:44.2866023-05:00:Thread#0:Scheduler: using testitem #11 for thread 0
+2020-04-08T15:36:44.2866023-05:00:Thread#0:Scheduler: Test #11 is scheduled for thread
+2020-04-08T15:36:44.2866023-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:44.2906026-05:00:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 0,0180011 seconds
+2020-04-08T15:36:44.2926027-05:00:Thread#0: Test #11/0 is started on thread #0
+2020-04-08T15:36:44.2946028-05:00:2020-04-08T15:36:44.2936027-05:00:Thread#0:B:Given I have entered 4 into the calculator
+2020-04-08T15:36:44.2956029-05:00:2020-04-08T15:36:44.2946028-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(4) (0,0s)
+2020-04-08T15:36:44.2966029-05:00:2020-04-08T15:36:44.2966029-05:00:Thread#0:B:And I have also entered 3 into the calculator
+2020-04-08T15:36:44.2986030-05:00:2020-04-08T15:36:44.2976030-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(3) (0,0s)
+2020-04-08T15:36:44.2986030-05:00:2020-04-08T15:36:44.2986030-05:00:Thread#0:B:When I press multiply
+2020-04-08T15:36:44.2996031-05:00:2020-04-08T15:36:44.2996031-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressMultiply() (0,0s)
+2020-04-08T15:36:44.3006031-05:00:2020-04-08T15:36:44.3006031-05:00:Thread#0:B:Then the result should be 12 on the screen
+2020-04-08T15:36:44.3016032-05:00:2020-04-08T15:36:44.3016032-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(12) (0,0s)
+2020-04-08T15:36:44.3036033-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.3036033-05:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2020-04-08T15:36:44.3036033-05:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2020-04-08T15:36:44.3036033-05:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:44.3036033-05:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:44.3036033-05:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:44.3036033-05:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2020-04-08T15:36:44.3036033-05:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2020-04-08T15:36:44.3036033-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:44.3076035-05:00:Thread#0: Test #11/0 is finished on thread #0 as Succeeded within 0,0150008 seconds
+2020-04-08T15:36:44.3086036-05:00:Thread#0: Test #12/0 is started on thread #0
+2020-04-08T15:36:44.3146039-05:00:2020-04-08T15:36:44.3126038-05:00:Thread#0:B:Given I have entered 4 into the calculator
+2020-04-08T15:36:44.3166041-05:00:2020-04-08T15:36:44.3156040-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(4) (0,0s)
+2020-04-08T15:36:44.3216043-05:00:2020-04-08T15:36:44.3166041-05:00:Thread#0:B:And I have also entered 2 into the calculator
+2020-04-08T15:36:44.3226044-05:00:2020-04-08T15:36:44.3226044-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(2) (0,0s)
+2020-04-08T15:36:44.3236045-05:00:2020-04-08T15:36:44.3236045-05:00:Thread#0:B:When I press divide
+2020-04-08T15:36:44.3256046-05:00:2020-04-08T15:36:44.3256046-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressDivide() (0,0s)
+2020-04-08T15:36:44.3266046-05:00:2020-04-08T15:36:44.3266046-05:00:Thread#0:B:Then the result should be 2 on the screen
+2020-04-08T15:36:44.3276047-05:00:2020-04-08T15:36:44.3276047-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(2) (0,0s)
+2020-04-08T15:36:44.3316049-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.3316049-05:00:Thread#:Scheduler: testitem #13 from normal test queue 
+2020-04-08T15:36:44.3316049-05:00:Thread#0:Scheduler: considering testitem #13 for thread 0
+2020-04-08T15:36:44.3316049-05:00:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-08T15:36:44.3316049-05:00:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2020-04-08T15:36:44.3316049-05:00:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2020-04-08T15:36:44.3316049-05:00:Thread#0:Scheduler: using testitem #13 for thread 0
+2020-04-08T15:36:44.3316049-05:00:Thread#0:Scheduler: Test #13 is scheduled for thread
+2020-04-08T15:36:44.3316049-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-08T15:36:44.3346051-05:00:Thread#0: Test #12/0 is finished on thread #0 as Succeeded within 0,0260015 seconds
+2020-04-08T15:36:44.3376053-05:00:Thread#0: Test #13/0 is started on thread #0
+2020-04-08T15:36:44.3456057-05:00:2020-04-08T15:36:44.3436056-05:00:Thread#0:B:Given I have entered 10 into the calculator
+2020-04-08T15:36:44.3486059-05:00:2020-04-08T15:36:44.3486059-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(10) (0,0s)
+2020-04-08T15:36:44.3496059-05:00:2020-04-08T15:36:44.3496059-05:00:Thread#0:B:And I have also entered 2 into the calculator
+2020-04-08T15:36:44.3506060-05:00:2020-04-08T15:36:44.3506060-05:00:Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(2) (0,0s)
+2020-04-08T15:36:44.3836079-05:00:2020-04-08T15:36:44.3726073-05:00:Thread#0:B:When I press divide
+2020-04-08T15:36:44.3856080-05:00:2020-04-08T15:36:44.3846080-05:00:Thread#0:T:done: CalculatorSteps.WhenIPressDivide() (0,0s)
+2020-04-08T15:36:44.3876081-05:00:2020-04-08T15:36:44.3866081-05:00:Thread#0:B:Then the result should be 5 on the screen
+2020-04-08T15:36:44.3886082-05:00:2020-04-08T15:36:44.3886082-05:00:Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(5) (0,0s)
+2020-04-08T15:36:44.3906083-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-08T15:36:44.3906083-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-08T15:36:44.3906083-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-04-08T15:36:44.3906083-05:00:Thread#0:Scheduler: No more tests for thread
+2020-04-08T15:36:44.4136096-05:00:Thread#0: Test #13/0 is finished on thread #0 as Succeeded within 0,0760043 seconds
+2020-04-08T15:36:44.4286105-05:00:2020-04-08T15:36:44.4276104-05:00:Got Deinitialize Signal
+2020-04-08T15:36:44.4346108-05:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-04-08T15:36:44.4366109-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-04-08T15:36:44.4396111-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-04-08T15:36:44.4416112-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-08T15:36:44.4416112-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-04-08T15:36:44.4426113-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-04-08T15:36:44.4426113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:44.4426113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\System.Diagnostics.Process.resources.dll'
+2020-04-08T15:36:44.4426113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0\System.Diagnostics.Process.resources.exe'
+2020-04-08T15:36:44.4426113-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Steven\source\repos\PruebasSQ.Specs\PruebasSQ\bin\Debug\netcoreapp3.0'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\System.Diagnostics.Process.resources.dll'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\System.Diagnostics.Process.resources.exe'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Diagnostics.Process.resources.dll'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Diagnostics.Process.resources.exe'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\System.Diagnostics.Process.resources.dll'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\System.Diagnostics.Process.resources.exe'
+2020-04-08T15:36:44.4436113-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2020-04-08T15:36:44.4446114-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-08T15:36:44.4576121-05:00:Thread#-1:Scheduler: get next test for thread -1
+2020-04-08T15:36:44.4576121-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-08T15:36:44.4576121-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-08T15:36:44.4616124-05:00;Thread#12;Info;test run finished
+2020-04-08T15:36:44.4616124-05:00;Thread#12;Info;publishing test results
+2020-04-08T15:36:44.4616124-05:00;Thread#12;Info;Not publishing results.
+2020-04-08T15:36:44.4616124-05:00;Thread#12;Info;test results published
+2020-04-08T15:36:44.4626124-05:00;Thread#12;Info;generating reports
+2020-04-08T15:36:44.6476230-05:00;Thread#12;Info;Starting external report generation process
+2020-04-08T15:36:47.6877969-05:00;Thread#12;Info;Successfully generated reports.
+2020-04-08T15:36:47.6907971-05:00;Thread#12;Info;Successfully generated reports
+2020-04-08T15:36:47.7017977-05:00:Total: 10
+2020-04-08T15:36:47.7047979-05:00:Succeeded: 10
+2020-04-08T15:36:47.7057979-05:00:Ignored: 0
+2020-04-08T15:36:47.7057979-05:00:Pending: 0
+2020-04-08T15:36:47.7057979-05:00:Skipped: 0
+2020-04-08T15:36:47.7067980-05:00:Failed: 0
+2020-04-08T15:36:47.7167985-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-04-08T15:36:47.7167985-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Steven\source\repos\PruebasSQ.Specs\TestResults\ReporteSpecFlow_1.html'
+========== End of log file ==========
